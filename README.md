@@ -13,7 +13,7 @@ specifically $NW = (1, -1)$ acting on $(A, L)$. The balance sheet vector $\mathb
 starting with the vector:
 
 $$
-\mathbf{x} = (A, L) \in \mathbb{R}^2
+\mathbf{x} = (A, L) \in \mathbb{R}^2, \quad A\in\mathbb{R},\quad L\in\mathbb{R}
 $$
 
 where:
